@@ -1,5 +1,5 @@
 # 🐱‍💻 Sabrina Dev's Projects
-
+(https://pixabay.com/pt/gifs/gato-bonitinho-emoji-c%C3%B3cegas-6937/)
 ## Olá, eu sou a Sabrina! ✨
 
 Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desafios e aprendizado! Aqui você vai encontrar alguns dos meus projetos de desenvolvimento web e muito mais! 🚀
