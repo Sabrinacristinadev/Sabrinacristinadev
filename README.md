@@ -26,11 +26,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desaf
 
 ---
 
-## 💡 Meus últimos projetos
 
-1. **[Projeto Awesome Site](#)** - Uma landing page interativa usando animações CSS 🌐
-2. **[App de Lista de Tarefas](#)** - Um app simples e intuitivo feito com React e TypeScript ✅
-3. **[Portfolio Web](#)** - Um site portfólio com um design moderno e elegante 💼
 
 ---
 
