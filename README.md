@@ -27,9 +27,6 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desaf
 ---
 
 
-
----
-
 ## 🐾 Acompanhe minhas aventuras dev!
 
 
